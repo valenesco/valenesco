@@ -9,7 +9,7 @@ I am a multimedia producer, I love chocolate and I love my city Cali, Colombia
 
 <!-- TODO: -->
 
-- 👩 I’m 21 years old.
+- 👩 I’m 22 years old.
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: hola@lineyescobar.com
 - ⚡ Fun fact: I like learning all the days new things.
