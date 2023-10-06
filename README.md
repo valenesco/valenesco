@@ -14,10 +14,4 @@ I am a multimedia producer, I love chocolate and I love my city Cali, Colombia
 - 📫 How to reach me: hola@lineyescobar.com
 - ⚡ Fun fact: I like learning all the days new things.
 
-#### Bizness
-- :paperclip: 
-- :email: 
-
-
-
 
