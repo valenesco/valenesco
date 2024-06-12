@@ -5,13 +5,13 @@ I am a multimedia producer, I love chocolate and I love my city Cali, Colombia
 
  [![Linkedin Badge](https://img.shields.io/badge/-valenesco-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lineyvalentinaescobaralzamora/)
  [![Mail Badge](https://img.shields.io/badge/-@soyyovalentinaescobar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/soyyovalentinaescobar/) 
- [![Mail Badge](https://img.shields.io/badge/-lineyescobar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hola@lineyescobar.com)
+ [![Mail Badge](https://img.shields.io/badge/-lineyescobar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:valentinaescobar966@gmail.com)
 
 <!-- TODO: -->
 
 - 👩 I’m 24 years old.
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: hola@lineyescobar.com
+- 📫 How to reach me: valentinaescobar966@gmail.com
 - ⚡ Fun fact: I like learning all the days new things.
 
 
